@@ -1,2 +1,3 @@
 /app/config/
 *__pycache__/
+/fake.py
